@@ -1,0 +1,26 @@
+
+
+
+
+{
+    "user_routers":[
+       {
+        "router_name":"Office HQ",
+        "username_login":"admin",
+        "password_login":"admin",
+        "host_ip":"192.168.1.10",
+        "Vendor":"Cisco"
+       },
+     {
+          "router_name":"Office Branch",
+          "username_login":"admin",
+          "password_login":"admin",
+          "host_ip":"192.168.1.12",
+          "Vendor":"Cisco"
+         }
+    
+
+
+
+    ]
+}
